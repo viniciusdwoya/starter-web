@@ -8,6 +8,6 @@ Sample website with plenty of files for demos
 
 ### Something for NewFeature
 
-Added some more txts here
+Added some more txts here, and even more texts and data!
 
 Added some explanation
